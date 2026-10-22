@@ -1,0 +1,10 @@
+PORTFOLIO IA E DIDATTICA — MARCO CIGOLOTTI
+
+Pubblicazione su GitHub Pages
+1. Apri il repository marcocigolotti-tech/formazione-ia-didattica.
+2. Carica tutti i file e le cartelle contenuti nello ZIP nella RADICE del repository, sostituendo i file omonimi.
+3. Mantieni le cartelle assets/, video/ e documenti/ e il file index.html.
+4. Attendi la pubblicazione e verifica il sito all’indirizzo https://marcocigolotti-tech.github.io/formazione-ia-didattica/
+
+Il sito contiene immagini originali dei progetti, avatar Picasso fornito dall’autore, QR Preistoria, video Parigi 1911 e PDF professionale.
+Verificare prima della diffusione scolastica le condizioni d’uso e gli adempimenti privacy dei servizi esterni.
